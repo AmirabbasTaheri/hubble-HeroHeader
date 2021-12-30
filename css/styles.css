@@ -21,7 +21,7 @@ h1 {
   align-items: center;
   text-align: center;
   height: 100vh;
-  background: url(../images/jerem320.jpg) no-repeat;
+  background: url(images/jerem320.jpg) no-repeat;
   background-size: cover;
   color: #fff;
   padding: 1rem;
@@ -37,7 +37,7 @@ h1 {
 
 @media screen and (min-width: 768px) {
   .hero {
-    background: url(../images/jerem924.jpg) no-repeat;
+    background: url(images/jerem924.jpg) no-repeat;
     background-size: cover;
   }
   .hero .tagline {
@@ -47,7 +47,7 @@ h1 {
 
 @media screen and (min-width: 1024px) {
   .hero {
-    background: url(../images/jerem1388.jpg) no-repeat;
+    background: url(images/jerem1388.jpg) no-repeat;
     background-size: cover;
   }
   h1 {
@@ -57,7 +57,7 @@ h1 {
 
 @media screen and (min-width: 1440px) {
   .hero {
-    background: url(../images/jerem1440.jpg) no-repeat;
+    background: url(images/jerem1440.jpg) no-repeat;
     background-size: cover;
   }
   h1 {
